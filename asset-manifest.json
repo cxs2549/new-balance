@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/new-balance/static/css/main.e21a008c.css",
+    "main.js": "/new-balance/static/js/main.9ea66d80.js",
+    "static/media/hero.png": "/new-balance/static/media/hero.85b1dea8fc8e36ab3e34.png",
+    "static/media/hero-mobile.png": "/new-balance/static/media/hero-mobile.f4928f5fb609b05ec882.png",
+    "static/media/women.png": "/new-balance/static/media/women.3a97cb483535d6c40b50.png",
+    "static/media/men.png": "/new-balance/static/media/men.b5afd0d5db78f63e6e6f.png",
+    "static/media/kids.png": "/new-balance/static/media/kids.cae2162c2a8f34579520.png",
+    "index.html": "/new-balance/index.html",
+    "main.e21a008c.css.map": "/new-balance/static/css/main.e21a008c.css.map",
+    "main.9ea66d80.js.map": "/new-balance/static/js/main.9ea66d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21a008c.css",
+    "static/js/main.9ea66d80.js"
+  ]
+}
